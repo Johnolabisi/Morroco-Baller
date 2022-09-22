@@ -1,0 +1,83 @@
+h1{
+  font-family: 'Poppins', sans-serif;
+  text-align: left;
+  font-size: 50px;
+  margin-left:82px;
+  color: #838060;
+font-style: italic;
+font-family: "Ubuntu";
+}
+h1:hover{
+}
+.image{
+  text-align: right;
+}
+ img{
+  width: 190px;
+  height: 220px;
+border-radius: 45%;
+}
+img:hover{
+  opacity: 0;
+}
+.Fatima{
+  background-image: url("tag1.jpg");
+background-size: auto;
+height: 1100px;
+width: 1390px;
+padding: 22px 29px 25px 10px;
+
+
+}
+ .image #c{
+  width: 290px;
+  height: 320px;
+
+}
+
+.paragraph{
+ font-family: cursive;
+}
+.text{
+  font-family: "Signika Negative";
+  margin-left: 25px;
+  margin-top: 40px;
+  letter-spacing: 1.5;
+  color: #c4b7a6;
+}
+.button{
+margin-left: 100px;
+margin-top: 40px;
+}
+#btn{
+  color: #fff;
+ background-color: #080808;
+ border-radius: 23%;
+ width: 90px;
+ height: 50px;
+}
+
+
+.ig{
+  color: purple;
+  font-family: 'sans-serif';
+  font-style: italic;
+    text-decoration: none;
+
+}
+.ig:hover{
+  text-decoration: none;
+  color: black;
+
+}
+#youtube{
+  color: red;
+  font-family: cursive;
+    text-decoration: none;
+    background-color: ;
+
+}
+#youtube:hover{
+  text-decoration: none;
+  color: red;
+}
